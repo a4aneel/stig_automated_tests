@@ -1,0 +1,2 @@
+# stig_automated_tests
+swiftlog_stig_automated_tests
